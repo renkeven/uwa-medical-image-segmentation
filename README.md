@@ -1,6 +1,6 @@
 # UWA-Image Segmentation
 
-Kaggle medical image segmentation project. End-to-end from training to inference.
+Kaggle medical image segmentation project. End-to-end from training to inference. Tensorflow/keras implementation
 
 ---
 
