@@ -15,15 +15,14 @@ Ensure that PATH_DIR points to the train/ folder in the dataset given above.
 
 Multiple models investigated + various architectural blocks (commented out in jupyter notebook):
 e.g:
-https://arxiv.org/abs/1909.00166
-https://arxiv.org/abs/1902.04049
-https://arxiv.org/abs/2003.05056
+- https://arxiv.org/abs/1909.00166
+- https://arxiv.org/abs/1902.04049
+- https://arxiv.org/abs/2003.05056
 
-Augmentations:
-Colour normalization via CLAHE
-Colour augmentation ("possibly omit in the context of 2.5D inputs)
-
-Scale/zoom/rotate augmentation
-Flip augmentation
-Coarse cutout (shamelessly stolen from another person on kaggle)
+**Augmentations:**
+- Colour normalization via CLAHE
+- Colour augmentation ("possibly omit in the context of 2.5D inputs)
+- Scale/zoom/rotate augmentation
+- Flip augmentation
+- Coarse cutout (shamelessly stolen from another person on kaggle)
 
