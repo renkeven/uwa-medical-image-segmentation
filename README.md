@@ -10,6 +10,6 @@ Dataset found on: https://www.kaggle.com/competitions/uw-madison-gi-tract-image-
 
 ResNet50v2 backbone
 
-<img src="images/pred.png" align="middle" width="400">
+<img src="images/pred.png" align="middle" width="800">
 
 
